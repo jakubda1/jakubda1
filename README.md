@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Jakubec
-- 👀 I’m interested in python and web developments
-- Would love to work within AI, but... **Ain't nobody got time for that**
+- 👀 I’m interested in python and web development
+- Would love to work within AI, but... **Ain't nobody got time to learn all that**
 
                                                                                                                       
                                                                                                                         
